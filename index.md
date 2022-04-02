@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Get Ready to be Enlightened with SlapFive's Documentation
 
 You can use the [editor on GitHub](https://github.com/slapfive/doc/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
